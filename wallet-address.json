@@ -1,0 +1,28 @@
+{
+	hacker-address: "0x4886366f9b11072e9a0d62396549ece2e617f4fa"
+	happen-date: "Sep 15 2021 15:16:17 / UTC+9"
+	wallet-type: "private"
+	chain-type: "klaytn"
+	reporter: "lion.cho@dpo.com"
+	victim-address: "0xE7f49362975708403F199A25E2Ce82e84f428311"
+	edvidence-tx-url: "https://scope.klaytn.com/tx/0x7cd72e16d420995ff2aec4d04d70f7f97aeb87d19f7b4c682d2b185a11a08665?tabId=tokenTransfer"
+	value: 8934
+	value-type: "KUSDT"
+	exchage-address: ""
+	memo: ""
+}
+{
+	hacker-address: "0x05ff794676e6090e1c94fd9c8db52ee8bdd83657"
+	happen-date: "2021-09-16 05:08:32"
+	wallet-type: "private"
+	chain-type: "ETH"
+	reporter: "lion.cho@dpo.com"
+	victim-address: ""
+	edvidence-tx-url: "https://etherscan.io/tx/0xc7361df60c75b0845c552ba306cd6c4f16dadc2034cf825642de59fc4a524265"
+	value: 4467
+	value-type: "KUSDT"
+	exchange-address: "0xa12431d0b9db640034b0cdfceef9cce161e62be4"
+	exchange-address-name: "HitBTC3"
+	memo: ""
+}
+
